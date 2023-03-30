@@ -1,0 +1,19 @@
+{
+  "name": "splitwise-backend",
+  "version": "1.0.0",
+  "description": "Provide backend development of splitwise app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhammalik26/Internship-splitwise-app.git"
+  },
+  "author": "Subham Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subhammalik26/Internship-splitwise-app/issues"
+  },
+  "homepage": "https://github.com/Subhammalik26/Internship-splitwise-app#readme"
+}
